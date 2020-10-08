@@ -1,0 +1,16 @@
+{
+  "name": "cron-example",
+  "version": "1.0.0",
+  "description": "This is an example job schedule application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Kayere",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.13"
+  }
+}
